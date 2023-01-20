@@ -7,14 +7,12 @@ At **IM.UR.CITY**, we are excited to bring the future of artificial intelligence
 
 Our twin projects, UR.CITY and IM.CITY, work together to create a unique ecosystem where users can create, raise, and trade unique AI models. 
 
+[UR.CITY]{: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[IM.CITY]{: .btn .fs-5 .mb-4 .mb-md-0 }
+
 **UR.CITY** serves as an incubator for intelligent agents, allowing users to experiment and have fun with AI in a virtual environment called an Artificial City.    
 
 **IM.CITY**, on the other hand, is where these intelligent agents come to life and can be utilized in the real world to facilitate social interactions and enhance decision-making within the Digital City.
-
-[IM.CITY]{: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[UR.CITY]{: .btn .fs-5 .mb-4 .mb-md-0 }
-
-Get started now{: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } View it on GitHub{: .btn .fs-5 .mb-4 .mb-md-0 }
 
 With IM.UR.CITY, we want to empower individuals, organizations and communities to be more productive, to be more creative, and to be more informed. We believe that by providing a user-friendly platform that allows users to create, raise, and trade AI models in a simple and easy-to-use interface, we will open up new opportunities for growth and innovation in the field of artificial intelligence.
 
