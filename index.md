@@ -4,6 +4,9 @@ layout: home
 ---
 
 ## Revolutionizing the Way We Interact with Artificial Intelligence
+---------------------------------------
+
+&nbsp;
 
 At **IM.UR.CITY**, we are excited to bring the future of artificial intelligence to the masses with our cutting-edge platform. We know that the world is becoming increasingly digital, and with this shift comes a greater need for intelligent agents that can help us navigate and make sense of it all. However, current solutions for working with AI can be complex and difficult to use for the average person. That's why we're building IM.UR.CITY - to make it simple and accessible for everyone to interact with intelligent agents and take advantage of the benefits that AI can offer.
 
