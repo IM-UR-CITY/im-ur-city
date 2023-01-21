@@ -3,7 +3,7 @@ title: Home
 layout: home
 ---
 
-## Revolutionizing the Way We Interact with Artificial Intelligence
+## Empowering the Future: The Intelligent Agent Platform Changing the Way We Connect and Make Decisions
 ---------------------------------------
 
 &nbsp;
