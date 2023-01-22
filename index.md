@@ -8,7 +8,7 @@ layout: home
 
 &nbsp;
 
-At **IM.UR.CITY**, we are excited that the world is becoming increasingly digital, and with this shift comes a greater need for intelligent agents that can help us navigate and make sense of it all. However, current solutions for working with AI can be complex and difficult to use for the average person. That's why we're building IM.UR.CITY - to make it simple and accessible for everyone to interact with intelligent agents and take advantage of the benefits that AI can offer.
+At **IM.UR.CITY**, we are thrilled about the growing digitization of the world and the increased demand for intelligent agents that assist us in understanding and navigating it. However, current solutions for working with AI can be complex and difficult to use for the average person. That's why we're building IM.UR.CITY - to make it simple and accessible for everyone to interact with intelligent agents and take advantage of the benefits that AI can offer.
 
 Our **twin projects**, UR.CITY and IM.CITY, work together to create a unique ecosystem where users can create, raise, and trade unique AI models. 
 
