@@ -3,7 +3,8 @@ title: Home
 layout: home
 ---
 
-## The City Interface Changing the Way We Connect and Make Decisions Through Intelligent Agents
+# The City Interface 
+## Changing the Way We Connect and Make Decisions Through Intelligent Agents
 ---------------------------------------
 
 &nbsp;
