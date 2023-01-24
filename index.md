@@ -3,7 +3,7 @@ title: Home
 layout: home
 ---
 
-## Empowering the Future: The Intelligent Agent Platform Changing the Way We Connect and Make Decisions
+## The City Interface Changing the Way We Connect and Make Decisions Through Intelligent Agents
 ---------------------------------------
 
 &nbsp;
