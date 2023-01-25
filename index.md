@@ -3,7 +3,7 @@ title: Home
 layout: home
 ---
 
-# The City Interface for digital spaces and intelligent agents 
+# The City Interface for Digital Spaces and Intelligent Agents 
 ## Changing the Way We Connect and Make Decisions
 ---------------------------------------
 
