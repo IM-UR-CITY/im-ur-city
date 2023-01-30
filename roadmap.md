@@ -17,7 +17,7 @@ last_modified_date: 2023-01-30 10:40
 - [ ] Text-based City
   - [ ] read-only version
   - [ ] interactive version
-- [ ] Visual City
+- [ ] Audio-Visual City
   - [ ] view-only version
   - [ ] interactive version
 - [ ] Haptic City
