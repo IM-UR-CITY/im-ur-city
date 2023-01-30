@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 
 # The City Interface for Digital Spaces and Intelligent Agents 
