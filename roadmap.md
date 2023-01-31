@@ -20,7 +20,7 @@ last_modified_date: 2023-01-30 10:40
 - [ ] Audio-visual City
   - [ ] view-only version
   - [ ] interactive version
-- [ ] Haptic City
+- [ ] Multisensory City
   - [ ] sense-only version
   - [ ] interactive version
 
