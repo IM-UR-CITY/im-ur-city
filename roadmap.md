@@ -28,5 +28,5 @@ last_modified_date: 2023-01-30 10:40
 ## City Layers
 
 - [ ] Artificial City (fictional)
-- [ ] Digital City (real)
-- [ ] Physical City (real & fictional)
+- [ ] Digital City (reality)
+- [ ] Physical City (reality & fictional)
