@@ -10,8 +10,8 @@ nav_order: 1
 
 &nbsp;
 
-{: .note }
-IM.UR.CITY is a #StartupSociety project building the framework for a new society (#FluidSociety) using #AI & #DLT to implement new concepts as #FluidReality, #FluidLaw, #FluidContracts
+{: .highlight }
+IM.UR.CITY - is a #StartupSociety project building the framework for a new society (#FluidSociety) using #AI & #DLT to implement new concepts as #FluidReality, #FluidLaw, #FluidContracts
 
 
 &nbsp;
