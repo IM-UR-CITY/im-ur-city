@@ -8,6 +8,8 @@ nav_order: 1
 ## Changing the Way We Connect and Make Decisions
 ---------------------------------------
 
+    IM.UR.CITY is a #StartupSociety project building the framework for a new society (#FluidSociety) using #AI & #DLT to implement new concepts as #FluidReality, #FluidLaw, #FluidContracts
+
 &nbsp;
 
 At **IM.UR.CITY**, we are thrilled about the growing digitization of the world and the increased demand for intelligent agents that assist us in understanding and navigating it. However, current solutions for working with AI can be complex and difficult to use for the average person. That's why we're building IM.UR.CITY - to make it simple and accessible for everyone to interact with intelligent agents and take advantage of the benefits that AI can offer.
