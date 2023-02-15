@@ -4,14 +4,15 @@ layout: home
 nav_order: 1
 ---
 
-# The City Interface for Digital Spaces and Intelligent Agents 
-## Changing the Way We Connect and Make Decisions
+# The Startup Society Project
+
+## Changing the Way We Connect and Make Decisions through Digital Spaces and Intelligent Agents
 ---------------------------------------
 
 &nbsp;
 
 {: .highlight }
-**IM.UR.CITY** is a **StartupSociety** project building the framework for a new society (**FluidSociety**) using **AI** & **DLT** to implement new concepts as **FluidReality**, **FluidLaw**, **FluidContracts**
+**IM.UR.CITY** is a **Startup Society** project building the framework for a new society (**FluidSociety**) using **AI** & **DLT** to implement new concepts as **FluidReality**, **FluidLaw**, **FluidContracts**
 
 
 &nbsp;
