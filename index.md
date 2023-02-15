@@ -6,7 +6,7 @@ nav_order: 1
 
 # The Startup Society Project
 
-## Changing the Way We Connect and Make Decisions through Digital Spaces and Intelligent Agents
+## Changing the Way We Connect and Make Decisions through Intelligent Agents in Social Spaces
 ---------------------------------------
 
 &nbsp;
