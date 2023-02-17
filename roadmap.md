@@ -12,21 +12,40 @@ last_modified_date: 2023-01-30 10:40
 ----------------
 
 
-## Cloud City Milestones 
+## City Format Milestones 
 
-- [ ] Text-based City
+- [ ] **Text-based City**
   - [ ] read-only version
   - [ ] interactive version
-- [ ] Audio-visual City
+- [ ] **Audio-visual City**
   - [ ] view-only version
   - [ ] interactive version
-- [ ] Multisensory City
+- [ ] **Multisensory City**
   - [ ] sense-only version
   - [ ] interactive version
 
 
-## City Layers
+## Framework Layers
 
-- [ ] Artificial City (fictional)
-- [ ] Digital City (reality)
-- [ ] Physical City (reality & fictional)
+- [ ] Artificial City
+- [ ] Digital City
+- [ ] Physical City
+
+## Reality Types
+
+- [ ] **Digital Reality**
+  - [ ] Fictional Reality
+  - [ ] Factual Reality
+- [ ] **Physical Reality**
+  - [ ] Natural Reality
+  - [ ] Artificial Reality
+
+## Enabler Types
+
+- [ ] Startup Societies **Simulator** (UR.CITY)
+- [ ] Startup Societies **Incubator** (IM.CITY)
+
+## Semantics
+
+- [ ] **UnReal City** (UR.CITY)
+- [ ] **ImMersive City** (IM.CITY)
