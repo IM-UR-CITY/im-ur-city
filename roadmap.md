@@ -34,8 +34,8 @@ last_modified_date: 2023-01-30 10:40
 ## Reality Types
 
 - [ ] **Digital Reality**
-  - [ ] Fictional Reality
-  - [ ] Factual Reality
+  - [ ] Fictional Reality (UR.CITY)
+  - [ ] Factual Reality (IM.CITY)
 - [ ] **Physical Reality**
   - [ ] Natural Reality
   - [ ] Artificial Reality

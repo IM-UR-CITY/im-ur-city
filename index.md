@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-# The Startup Society Project
+# The Startup Societies Enabler
 
 ## Changing the Way We Connect and Make Decisions through Intelligent Agents in Social Spaces
 ---------------------------------------
@@ -12,7 +12,7 @@ nav_order: 1
 &nbsp;
 
 {: .highlight }
-**IM.UR.CITY** is a **Startup Society** project building the framework for a new society (**FluidSociety**) using **AI** & **DLT** to implement new concepts as **FluidReality**, **FluidLaw**, **FluidContracts**
+**IM.UR.CITY** is a **Startup Societies** project building the framework for a new societies experiments using **AI** & **DLT**
 
 
 &nbsp;
