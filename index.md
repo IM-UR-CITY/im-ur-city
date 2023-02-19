@@ -6,7 +6,7 @@ nav_order: 1
 
 # The Startup Societies Incubator
 
-## Changing the Way We Connect and Make Decisions through Intelligent Agents in Social Spaces
+## Changing the Way We Connect and Make Decisions through Intelligent Agents in Social Spaces Mediated by Technology
 ---------------------------------------
 
 &nbsp;
