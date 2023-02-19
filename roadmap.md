@@ -31,19 +31,6 @@ last_modified_date: 2023-01-30 10:40
 - [ ] Digital City
 - [ ] Physical City
 
-## Reality Types
-
-- [ ] **Digital Reality**
-  - [ ] Fictional Reality (UR.CITY)
-  - [ ] Factual Reality (IM.CITY)
-- [ ] **Physical Reality**
-  - [ ] Natural Reality
-  - [ ] Artificial Reality
-
-## Enabler Types
-
-- [ ] Startup Societies **Simulator** (UR.CITY)
-- [ ] Startup Societies **Incubator** (IM.CITY)
 
 ## Semantics
 
