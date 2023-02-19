@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-# The Startup Societies Enabler
+# The Startup Societies Incubator
 
 ## Changing the Way We Connect and Make Decisions through Intelligent Agents in Social Spaces
 ---------------------------------------
@@ -12,7 +12,7 @@ nav_order: 1
 &nbsp;
 
 {: .highlight }
-**IM.UR.CITY** is a **Startup Societies** project building the framework for a new societies experiments using **AI** & **DLT**
+**IM.UR.CITY** is a platform for **Startup Societies** building new social frameworks by leveraging the transformative potential of cutting-edge technologies such as using **AI** & **DLT**
 
 
 &nbsp;
