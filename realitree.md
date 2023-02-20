@@ -241,8 +241,8 @@ last_modified_date: 2023-01-30 10:40
 |   |-- Natural Reality
 |   |-- Artificial Reality
 |   |   |
-|   |   |-- Unmediated Reality
-|   |   |-- Mediated Reality (analog/digital/cognitive)
+|   |   |-- Unmediated Reality (physical - layer 1)
+|   |   |-- Mediated Reality (symbolistic - analog/digital/cognitive - layer 2
 |   |   |   |
 |   |   |   |-- Fictional Reality
 |   |   |   |-- Factual Reality
