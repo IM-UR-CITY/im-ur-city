@@ -119,6 +119,7 @@ last_modified_date: 2023-01-30 10:40
 |   |
 |   |-- Natural Reality
 |   |-- Artificial Reality
+|   |
 |
 |-- MEDIATED Reality
 |   |
