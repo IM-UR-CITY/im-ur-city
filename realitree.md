@@ -115,13 +115,13 @@ last_modified_date: 2023-01-30 10:40
 ```
 +-- ..
 |
-|-- PHYSICAL Reality
+|-- PHYSICAL Reality (layer 1)
 |   |
 |   |-- Natural Reality
 |   |-- Artificial Reality
 |   |
 |
-|-- MEDIATED Reality
+|-- MEDIATED Reality (layer 2)
 |   |
 |   |-- Analog Reality
 |   |-- Digital Reality
@@ -148,10 +148,64 @@ last_modified_date: 2023-01-30 10:40
 |   |   |-- Perceivable Reality
 |   |   |-- Imperceivable Reality
 |   |   |
-|   |++ By Comprehensibility
+|
+|
+|
+|-- MEDIATED Reality
+|   |
+|   |++ By Medium
 |   |   |
-|   |   |-- Comprehensible Reality
-|   |   |-- Incomprehensible Reality
+|   |   |-- Analog Reality
+|   |   |-- Digital Reality
+|   |   |-- Cognitive Reality
+|   |
+|   |++ By Factuality
+|   |   |
+|   |   |-- Factual Reality
+|   |   |-- Fictional Reality
+|   |   |
+|   |
+|   |++ By Source / Direction **
+|   |   |
+|   |   |-- Perceived Reality
+|   |   |-- Generated Reality
+|   |   |
+|   |
+|
+
+
+
+
+|++ By Comprehensibility
+|   |
+|   |-- Comprehensible Reality
+|   |-- Incomprehensible Reality
+|   |
+
+
++-- ..
+```
+
+
+
+
+
+
+
+```
++-- ..
+|
+|-- PHYSICAL Reality
+|   |
+|   |++ By Means **
+|   |   |
+|   |   |-- Natural Reality
+|   |   |-- Artificial Reality
+|   |   |
+|   |++ By Perceivability
+|   |   |
+|   |   |-- Perceivable Reality
+|   |   |-- Imperceivable Reality
 |   |   |
 |
 |
@@ -177,6 +231,27 @@ last_modified_date: 2023-01-30 10:40
 |   |   |
 |   |
 |
+
+
+
+
+|-- Incomprehensible Reality
+|-- Comprehensible Reality
+|   |
+|   |-- Natural Reality
+|   |-- Artificial Reality
+|   |   |
+|   |   |-- Unmediated Reality
+|   |   |-- Mediated Reality (analog/digital/cognitive)
+|   |   |   |
+|   |   |   |-- Fictional Reality
+|   |   |   |-- Factual Reality
+|   |   |   |   |
+|   |   |   |   |-- Perceived Reality
+|   |   |   |   |-- Figured Reality
+
+
+
 
 +-- ..
 ```
