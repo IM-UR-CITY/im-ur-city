@@ -92,7 +92,6 @@ last_modified_date: 2023-01-30 10:40
 |   |-- Natural Reality
 |   |   |
 |   |   |-- Comprehensible Reality
-|   |   |
 |   |   |-- Incomprehensible Reality
 |   |   |
 |   |
@@ -102,14 +101,10 @@ last_modified_date: 2023-01-30 10:40
 |-- MEDIATED Reality
 |   |
 |   |-- Analog Reality
-|   |
 |   |-- Digital Reality
-|   |
-|   |
 |   |-- Cognitive Reality
 |   |   |
 |   |   |-- Perceived Reality
-|   |   |
 |   |   |-- Generated Reality
 |   |   |
 |   |
