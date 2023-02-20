@@ -90,13 +90,11 @@ last_modified_date: 2023-01-30 10:40
 |-- PHYSICAL Reality
 |   |
 |   |-- Natural Reality
-|   |   |
+|   |
 |   |   |-- Comprehensible Reality
 |   |   |-- Incomprehensible Reality
-|   |   |
 |   |
 |   |-- Artificial Reality
-|   |
 |
 |-- MEDIATED Reality
 |   |
