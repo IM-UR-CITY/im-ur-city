@@ -110,3 +110,23 @@ last_modified_date: 2023-01-30 10:40
 
 +-- ..
 ```
+
+
+```
++-- ..
+|
+|-- PHYSICAL Reality
+|   |
+|   |-- Natural Reality
+|   |-- Artificial Reality
+|
+|-- MEDIATED Reality
+|   |
+|   |-- Analog Reality
+|   |-- Digital Reality
+|   |-- Cognitive Reality
+|   |
+|
+
++-- ..
+```
