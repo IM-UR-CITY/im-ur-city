@@ -131,3 +131,52 @@ last_modified_date: 2023-01-30 10:40
 
 +-- ..
 ```
+
+
+```
++-- ..
+|
+|-- PHYSICAL Reality
+|   |
+|   |++ By Means **
+|   |   |
+|   |   |-- Natural Reality
+|   |   |-- Artificial Reality
+|   |   |
+|   |++ By Perceivability
+|   |   |
+|   |   |-- Perceivable Reality
+|   |   |-- Imperceivable Reality
+|   |   |
+|   |++ By Comprehensibility
+|   |   |
+|   |   |-- Comprehensible Reality
+|   |   |-- Incomprehensible Reality
+|   |   |
+|
+|
+|
+|-- MEDIATED Reality
+|   |
+|   |++ By Medium
+|   |   |
+|   |   |-- Analog Reality
+|   |   |-- Digital Reality
+|   |   |-- Cognitive Reality
+|   |
+|   |++ By Factuality
+|   |   |
+|   |   |-- Factual Reality
+|   |   |-- Fictional Reality
+|   |   |
+|   |
+|   |++ By Source / Direction **
+|   |   |
+|   |   |-- Perceived Reality
+|   |   |-- Generated Reality
+|   |   |
+|   |
+|
+
++-- ..
+```
