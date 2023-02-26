@@ -235,3 +235,29 @@ last_modified_date: 2023-01-30 10:40
 
 +-- ..
 ```
+
+
+```
++-- ..
+
+|-- Incomprehensible Reality
+|-- Comprehensible Reality
+|   |
+|   |-- Natural Reality
+|   |-- Artificial Reality
+|   |   |
+|   |   |-- Direct Reality
+|   |   |-- Mediated Reality
+|   |   |   |   |
+|   |   |   |   |-- Digital Reality
+|   |   |   |   |-- Analog Reality
+|   |   |   |   |-- Cognitive Reality
+|   |   |   |   |
+|   |   |   |
+|   |   |   |-- Factual Reality
+|   |   |   |-- Conventional Reality
+|   |   |   |-- Fictional Reality
+|   |   |   |
+
++-- ..
+```
