@@ -20,6 +20,7 @@ last_modified_date: 2023-01-30 10:40
 - [ ] Digital.Ledgers.Center
   - [ ] Digital Rewards System
   - [ ] Poly-centric Law System
+  - [ ] Fluid Basic Income System
 - [ ] UR.CITY
   - [ ] Artificial Cities
   - [ ] Artificial Spaces
