@@ -19,9 +19,7 @@ The first component will be **UR.CITY**, an online platform for artificial socie
 
 The second component of the online infrastructure will be **IM.CITY**, an online platform for digital societies (Factual Reality) that will enable the creation of startup societies. This platform will provide a real-world environment for users to develop new society formats using AI and DLT technologies.
 
-The third component, **Digital.Agents.Center**, is acting like an incubator for digital agents. Here, the digital agents are created, developed and tested in intelligent social interaction competitions in various society types.
-
-Digital.Agents.Center is a crucial component of the IM.UR.CITY project. It serves as the foundation for the project's AI capabilities and provides a platform for users to create and experiment with digital agents, participate in competitions, and manage their agents in a marketplace setting. 
+The third component, **Digital.Agents.Center**, is acting like an incubator for digital agents. It serves as the foundation for the project's AI capabilities and provides a platform for users to create and experiment with digital agents, participate in competitions, and manage their agents in a marketplace setting. 
 
 The fourth component, **Digital.Ledgers.Center**, is where the digital assets are recorded and managed. It is the foundation for the Fluid Reality records, mainly for the digital rewards system and the poly-centric law system.
 
