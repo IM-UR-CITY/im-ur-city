@@ -4,33 +4,24 @@ layout: home
 nav_order: 1
 ---
 
-# The Digital Societies Platform
+# The Digital Societies Ecosystem
 
-## Changing the Way We Connect and Make Decisions through Intelligent Agents in Social Spaces Mediated by Technology
+## Changing the Way We Connect and Make Decisions in Social Spaces Mediated by Technology
 ---------------------------------------
 
-&nbsp;
+The **IM.UR.CITY** project has a bold and innovative vision of using cutting-edge technologies like AI and DLT to create a digital ecosystem for new digital societies formation. The project aims to explore new society formats and build a digital infrastructure that can support their creation.
 
-{: .highlight }
-**IM.UR.CITY** is a platform for **Digital Societies** building new social frameworks by leveraging the transformative potential of cutting-edge technologies such as using **AI** & **DLT**
+The project's mission is to create an online infrastructure that includes 4 main components.
 
+The first component will be **UR.CITY**, an online platform for artificial societies (Fictional Reality) that will allow users to create proof of concept societies by exploring social interactions through digital agents. This platform will allow users to experiment with different societal structures and test their viability in a fictional environment.
 
-&nbsp;
+The second component of the online infrastructure will be **IM.CITY**, an online platform for digital societies (Factual Reality) that will enable the creation of startup societies. This platform will provide a real-world environment for users to develop new society formats using AI and DLT technologies.
 
-At **IM.UR.CITY**, we are thrilled about the growing digitization of the world and the increased demand for intelligent agents that assist us in understanding and navigating it. However, current solutions for working with AI can be complex and difficult to use for the average person. That's why we're building IM.UR.CITY - to make it simple and accessible for everyone to interact with intelligent agents and take advantage of the benefits that AI can offer.
+The third component, **Digital.Agents.Center**, is acting like an incubator for digital agents. Here, the digital agents are created, developed and tested in intelligent social interaction competitions in various society types.
 
-Our **twin projects**, UR.CITY and IM.CITY, work together to create a unique ecosystem where users can create, raise, and trade unique AI models. 
+The fourth component, **Digital.Ledgers.Center**, is where the digital assets are recorded and managed. It is the foundation for the Fluid Reality records, mainly for the digital rewards system and the poly-centric law system.
 
-[IM.CITY]{: .btn .fs-5 .mb-4 .mb-md-0 }
-[UR.CITY]{: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-
-**UR.CITY** (<strong>U</strong>n<strong>R</strong>eal City) serves as a simulator for artificial/intelligent agents, allowing users to experiment and have fun with AI in a virtual environment called an Artificial City.    
-
-**IM.CITY** (<strong>I</strong>m<strong>M</strong>ersive City) serves as an incubator for new digital societies where these intelligent/expert agents come to life and can be utilized in the real world to facilitate social interactions and enhance decision-making within the Digital City.
-
-With IM.UR.CITY, we want to empower individuals, organizations and communities to be more productive, to be more creative, and to be more informed. We believe that by providing a user-friendly platform that allows users to create, raise, and trade AI models in a simple and easy-to-use interface, we will open up new opportunities for growth and innovation in the field of artificial intelligence.
-
-The future is here, and we at IM.UR.CITY are excited to be at the forefront of it. 
+The IM.UR.CITY project's vision and mission aim to push the boundaries of what is possible in society formation by leveraging the power of new digital technologies.
 
 **Join us** on this exciting journey and be a part of shaping the future of AI technology.
 
