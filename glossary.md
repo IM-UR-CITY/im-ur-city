@@ -1,9 +1,10 @@
 ---
-title: Dashboard Game
+title: Glossary
 layout: page
+nav_order: 100
 has_children: true
-parent: Glossary
-permalink: /dashboard-game/
+has_toc: true
+permalink: /glossary/
 last_modified_date: 2023-03-07 10:40
 ---
 
