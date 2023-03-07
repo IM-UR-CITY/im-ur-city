@@ -12,7 +12,7 @@ last_modified_date: 2023-03-07 10:40
 ## Dashboard Game
 ----------------
 
-**A "dashboard game" is a type of digital game where players interact with the game primarily through a digital dashboard or interface, which displays information and allows players to make decisions or take actions that impact the outcome of the game.**
+**A "dashboard game" is a type of digital game where players interact with the ecosystem primarily through a digital dashboard or interface, which displays information and allows players to make decisions or take actions that impact the outcome of the game.**
 
 The dashboard could serve as a hub for social interactions, as in a social dashboard game, or as a platform for managing various aspects of a system or process, such as finance, inventory, or logistics.
 
