@@ -1,8 +1,6 @@
 ---
 title: Dashboard Game
 layout: page
-has_children: true
-has_toc: true
 parent: Glossary
 permalink: /dashboard-game/
 last_modified_date: 2023-03-07 10:40
