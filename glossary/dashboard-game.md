@@ -14,7 +14,9 @@ last_modified_date: 2023-03-07 10:40
 
 A "dashboard game" is a type of digital game that is played through a digital dashboard or interface. It can include various types of games, including simulation games, but is not limited to simulations.
 
-**In a dashboard game, players interact with the game primarily through a digital dashboard or interface, which displays information and allows players to make decisions or take actions that impact the outcome of the game.** The dashboard could serve as a hub for social interactions, as in a social dashboard game, or as a platform for managing various aspects of a system or process, such as finance, inventory, or logistics.
+**In a dashboard game, players interact with the game primarily through a digital dashboard or interface, which displays information and allows players to make decisions or take actions that impact the outcome of the game.** 
+
+The dashboard could serve as a hub for social interactions, as in a social dashboard game, or as a platform for managing various aspects of a system or process, such as finance, inventory, or logistics.
 
 A dashboard game can not only refer to fictional contexts but also refer to conventional contexts where the value is added and managed by convention, such as in a crypto exchange or other play-to-earn (P2E) systems. In this context, the dashboard would display information related to the crypto assets or digital items being traded or used within the system. Players would interact with the dashboard to manage their assets, make trades or transactions, and track their progress within the game.
 
