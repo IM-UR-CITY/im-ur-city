@@ -13,5 +13,4 @@ last_modified_date: 2023-03-07 10:40
 
 A "dashboard game" is a type of digital game that is played through a digital dashboard or interface.
 
-Click to learn more.
-
+[Learn More](https://docs.im.city)
