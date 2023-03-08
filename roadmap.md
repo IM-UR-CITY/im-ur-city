@@ -21,11 +21,11 @@ last_modified_date: 2023-01-30 10:40
   - [ ] Fluid Rewarding System
   - [ ] Fluid Basic Income System
   - [ ] Fluid Law System
-- [ ] UR.CITY
+- [ ] UR.CITY (Fictional Reality)
   - [ ] Artificial Cities
   - [ ] Artificial Spaces
   - [ ] Artificial Interactions
-- [ ] IM.CITY
+- [ ] IM.CITY (Factual Reality)
   - [ ] Digital Cities
   - [ ] Digital Spaces
   - [ ] Digital Interactions
