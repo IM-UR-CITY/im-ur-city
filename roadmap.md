@@ -33,7 +33,7 @@ last_modified_date: 2023-01-30 10:40
 
 ## City Format Milestones 
 
-- [ ] **Text-based City**
+- [ ] **Dashboard City**
   - [ ] read-only version
   - [ ] interactive version
 - [ ] **Audio-visual City**
@@ -48,7 +48,7 @@ last_modified_date: 2023-01-30 10:40
 
 - [ ] Artificial City
 - [ ] Digital City
-- [ ] Physical City
+- [ ] Fluid City
 
 
 ## Semantics
