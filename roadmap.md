@@ -13,19 +13,19 @@ last_modified_date: 2023-01-30 10:40
 
 ## Components Roadmap
 
-- [ ] Digital.Agents.Center
+- [ ] **Digital.Agents.Center**
   - [ ] The Incubator
   - [ ] The Marketplace
   - [ ] The Arena
-- [ ] Digital.Ledgers.Center
+- [ ] **Digital.Ledgers.Center**
   - [ ] Fluid Rewarding System
   - [ ] Fluid Basic Income System
   - [ ] Fluid Law System
-- [ ] UR.CITY (Fictional Reality)
+- [ ] **UR.CITY (Fictional Reality)**
   - [ ] Artificial Cities
   - [ ] Artificial Spaces
   - [ ] Artificial Interactions
-- [ ] IM.CITY (Factual Reality)
+- [ ] **IM.CITY (Factual Reality)**
   - [ ] Digital Cities
   - [ ] Digital Spaces
   - [ ] Digital Interactions
