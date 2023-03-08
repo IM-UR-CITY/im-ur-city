@@ -18,7 +18,7 @@ last_modified_date: 2023-01-30 10:40
   - [ ] The Marketplace
   - [ ] The Arena
 - [ ] Digital.Ledgers.Center
-  - [ ] Digital Rewards System
+  - [ ] Fluid Rewarding System
   - [ ] Fluid Basic Income System
   - [ ] Fluid Law System
 - [ ] UR.CITY
