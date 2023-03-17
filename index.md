@@ -67,7 +67,7 @@ Dedicated to the imaginative and creative aspects of digital societies, this pla
 
 Once the Secondary Platforms have been successfully validated, they are merged into the Main Platform, IM.UR.CITY for Fluid Reality. The Main Platform constitutes the Beta version of the project, offering a more comprehensive and interconnected experience for users as it seamlessly blends the aspects of both Secondary Platforms. In this stage, the project undergoes additional testing, refinement, and expansion before reaching its final, fully-featured form.
 
-##### **[IM.UR.CITY]** (Main Platform for Fluid Reality): 
+#### **[IM.UR.CITY]** (Main Platform for Fluid Reality): 
 This platform combines both secondary platforms, providing an environment where the digital societies can interact, collaborate, and coexist in a seamless fusion of diverse social realities.
 
 
