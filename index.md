@@ -12,7 +12,7 @@ We aim to advance the digital evolution of society by empowering individuals and
 
 ## The Mission: 
 ---------------------------------------
-We embraced the mission to design and develop the essential components of a versatile operating system tailored for custom digital societies, IM.UR.CITY is dedicated to enabling innovation, collaboration, and sustainability. By integrating AI, distributed ledger technology, and novel social constructs, we aim to revolutionize the digital landscape and create a foundation for diverse societies to coexist harmoniously. Our commitment is to empower individuals and communities with the tools and infrastructure needed to shape their own digital city-states, ensuring a more inclusive, adaptable, and interconnected future for all.
+We embraced the mission to design and develop the essential components of a versatile operating system tailored for custom digital societies, enabling innovation, collaboration, and sustainability. By integrating AI, distributed ledger technology, and novel social constructs, we aim to revolutionize the digital landscape and create a foundation for diverse societies to coexist harmoniously. Our commitment is to empower individuals and communities with the tools and infrastructure needed to shape their own digital city-states, ensuring a more inclusive, adaptable, and interconnected future for all.
 
 
 ## Project Status:
