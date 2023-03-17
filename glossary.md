@@ -45,7 +45,7 @@ A "dashboard game" is a type of digital game that is played through a digital da
 
 
 
-## Semantics
+## Platform Names
 
 - [ ] **UnReal City** (UR.CITY)
 - [ ] **ImMersive City** (IM.CITY)
