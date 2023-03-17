@@ -2,6 +2,7 @@
 title: Dashboard Game
 layout: page
 parent: Glossary
+nav_order: 1000
 permalink: /dashboard-game/
 last_modified_date: 2023-03-07 10:40
 ---
