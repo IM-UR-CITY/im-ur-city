@@ -13,17 +13,15 @@ The **IM.UR.CITY** project has a bold and innovative vision of using cutting-edg
 The project aims to explore new society formats and build a digital infrastructure that can support their creation.
 Through this platform, the project goal is to foster innovation in societal structures and systems, ultimately leading to more effective and efficient societies.
 
-The project's mission is to create an online infrastructure that includes 4 main components.
+## Vision :
+---------------------------------------
+Pioneering the digital evolution of society by empowering individuals and communities to create independent societies that harmoniously coexist within shared geographic spaces. Leveraging cutting-edge technologies and innovative concepts, IM.UR.CITY aspires to build a resilient, adaptable, and inclusive framework for the seamless fusion of diverse social realities, fostering a new era of interconnectedness and vibrant digital city-states.
 
-The first component will be **UR.CITY**, an online platform for artificial societies (Fictional Reality) that will allow users to create proof of concept societies by exploring social interactions through digital agents. This platform will allow users to experiment with different societal structures and test their viability in a fictional environment.
+## Mission: 
+---------------------------------------
+To design and develop the essential components of a versatile operating system tailored for custom digital societies, IM.UR.CITY is dedicated to fostering innovation, collaboration, and sustainability. By integrating AI, distributed ledger technology, and novel social constructs, we aim to revolutionize the digital landscape and create a foundation for diverse societies to coexist harmoniously. Our commitment is to empower individuals and communities with the tools and infrastructure needed to shape their own digital city-states, ensuring a more inclusive, adaptable, and interconnected future for all.
 
-The second component of the online infrastructure will be **IM.CITY**, an online platform for digital societies (Factual Reality) that will enable the creation of startup societies. This platform will provide a real-world environment for users to develop new society formats using AI and DLT technologies.
 
-The third component, **Digital.Agents.Center**, is acting like an incubator for digital agents. It serves as the foundation for the project's AI capabilities and provides a platform for users to create and experiment with digital agents, participate in competitions, and manage their agents in a marketplace setting. 
-
-The fourth component, **Digital.Ledgers.Center**, is where the digital assets are recorded and managed. It is the foundation for the Fluid Reality records, mainly for the digital rewards system and the poly-centric law system.
-
-The IM.UR.CITY project's vision and mission aim to push the boundaries of what is possible in society formation by leveraging the power of new digital technologies.
 
 **Join us** on this exciting journey and be a part of shaping the future of AI technology.
 
