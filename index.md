@@ -18,7 +18,7 @@ To design and develop the essential components of a versatile operating system t
 ## Project Status:
 ---------------------------------------
 
-The project is in the initial development stages and is currently focused on the development of the individual Centers. The initial Centers, the digital.libraries.center and digital.agents.center, are currently in the process of being developed and will be launched in the near future. 
+The project is in the initial development stages and is currently focused on the development of the individual Centers. The initial Centers, the _Digital.Libraries.Center_ and _Digital.Agents.Center_, are currently in the process of being developed and will be launched in the near future. 
 
 
 ## Project Components:
