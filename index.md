@@ -15,7 +15,17 @@ Pioneering the digital evolution of society by empowering individuals and commun
 To design and develop the essential components of a versatile operating system tailored for custom digital societies, IM.UR.CITY is dedicated to fostering innovation, collaboration, and sustainability. By integrating AI, distributed ledger technology, and novel social constructs, we aim to revolutionize the digital landscape and create a foundation for diverse societies to coexist harmoniously. Our commitment is to empower individuals and communities with the tools and infrastructure needed to shape their own digital city-states, ensuring a more inclusive, adaptable, and interconnected future for all.
 
 
-## Centers (PoC): 
+## Project Status:
+---------------------------------------
+
+The project is in the initial development stages and is currently focused on the development of the individual Centers. The initial Centers, the digital.libraries.center and digital.agents.center, are currently in the process of being developed and will be launched in the near future. 
+
+
+## Project components:
+---------------------------------------
+
+
+### Centers (PoC): 
 
 Centers are the individual building blocks or modules of the project, each focusing on a specific aspect or functionality within the digital societies. They serve as Proof of Concepts (PoCs), representing early-stage prototypes designed to test and validate the feasibility and effectiveness of each concept or direction. By developing Centers first, the project can identify successful components to integrate into the larger platform structure.
 
@@ -38,24 +48,25 @@ Dedicated to facilitating augmented decision-making processes, this center emplo
 This center organizes and hosts digital events and competitions, offering users a platform to engage in interactive experiences, showcase their skills, and connect with others within the digital societies.
 
 
-## Secondary Platforms (MVP): 
+### Secondary Platforms (MVP): 
 ---------------------------------------
 
 After the successful validation of individual Centers, they are combined and integrated into one or both of the Secondary Platforms, IM.CITY (Factual Reality) and UR.CITY (Fictional Reality). The Secondary Platforms represent the Minimum Viable Product (MVP) stage, providing a functional yet streamlined experience for users. This stage aims to further test and validate the project's concepts and their interactions with each other in a more cohesive environment.
 
-### IM.CITY (Secondary Platform for Factual Reality): 
+#### IM.CITY (Secondary Platform for Factual Reality): 
 Focused on representing accurate and verifiable information about the world, this platform offers a digital space where users can share knowledge, ideas, and experiences rooted in factual reality.
 
-### UR.CITY (Secondary Platform for Fictional Reality): 
+#### UR.CITY (Secondary Platform for Fictional Reality): 
 Dedicated to the imaginative and creative aspects of digital societies, this platform enables users to explore, share, and participate in fictional narratives, experiences, and environments.
 
 
-## Main Platform (Beta):
+### Main Platform (Beta):
 ---------------------------------------
 
 Once the Secondary Platforms have been successfully validated, they are merged into the Main Platform, IM.UR.CITY for Fluid Reality. The Main Platform constitutes the Beta version of the project, offering a more comprehensive and interconnected experience for users as it seamlessly blends the aspects of both Secondary Platforms. In this stage, the project undergoes additional testing, refinement, and expansion before reaching its final, fully-featured form.
 
-IM.UR.CITY (Main Platform for Fluid Reality): This platform combines both secondary platforms, providing an environment where the digital societies can interact, collaborate, and coexist in a seamless fusion of diverse social realities.
+##### IM.UR.CITY (Main Platform for Fluid Reality): 
+This platform combines both secondary platforms, providing an environment where the digital societies can interact, collaborate, and coexist in a seamless fusion of diverse social realities.
 
 
 
