@@ -77,7 +77,7 @@ This platform combines both secondary platforms, providing an environment where 
 IM.UR.CITY project is developing based on the conceptualization work conducted by the [Digital Societies Institute], the think tank for the future of digital societies. The Institute's focus on exploring cutting-edge technologies, such as artificial intelligence and distributed ledger technology, aligns with IM.UR.CITY's mission to develop an innovative digital infrastructure for new Social Digital Reality. By collaborating with the [Digital Societies Institute] and leveraging its expertise, IM.UR.CITY aims to create a more inclusive, equitable, and sustainable digital society, incorporating modern concepts like network state, liquid democracy, universal basic income, poly-centric law, and digital identity.
 
 
-**Join us** on this exciting journey and be a part of shaping the future of AI technology.
+**Join us** on this exciting journey and be a part of shaping the future of our society.
 
 
 [IM.UR.CITY]: https://im.ur.city "I'M UR CITY"
