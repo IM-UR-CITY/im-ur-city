@@ -18,7 +18,7 @@ We embraced the mission to design and develop the essential components of a vers
 ## Project Status:
 ---------------------------------------
 
-The project is in the initial development stages and is currently focused on the development of the individual Centers. The initial Centers, the _Digital.Libraries.Center_ and _Digital.Agents.Center_, are currently in the process of being developed and will be launched in the near future. 
+The project is in the initial development stages and is currently focused on the development of the specialised Centers. The initial Centers, the _Digital.Libraries.Center_ and _Digital.Agents.Center_, are currently in the process of being developed and will be launched in the near future. 
 
 
 ## Project Components:
