@@ -1,7 +1,7 @@
 ---
 title: Fluid Rewards
 layout: page
-parent: Glossary
+parent: Concepts
 nav_order: 30
 permalink: /fluid-rewards/
 last_modified_date: 2023-03-17 10:40

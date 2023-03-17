@@ -1,7 +1,7 @@
 ---
 title: Fluid Consent
 layout: page
-parent: Glossary
+parent: Concepts
 nav_order: 20
 permalink: /fluid-consent/
 last_modified_date: 2023-03-17 10:40

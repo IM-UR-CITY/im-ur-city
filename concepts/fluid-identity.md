@@ -1,7 +1,7 @@
 ---
 title: Fluid Identity
 layout: page
-parent: Glossary
+parent: Concepts
 nav_order: 40
 permalink: /fluid-identity/
 last_modified_date: 2023-03-17 10:40
