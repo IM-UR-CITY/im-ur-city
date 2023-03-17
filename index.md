@@ -55,10 +55,10 @@ This center organizes and hosts digital events and competitions, offering users 
 
 After the successful validation of individual Centers, they are combined and integrated into one or both of the Secondary Platforms, IM.CITY (Factual Reality) and UR.CITY (Fictional Reality). The Secondary Platforms represent the Minimum Viable Product (MVP) stage, providing a functional yet streamlined experience for users. This stage aims to further test and validate the project's concepts and their interactions with each other in a more cohesive environment.
 
-#### **[IM.CITY]** (Secondary Platform for Factual Reality): 
+#### **[IM.CITY]** (for Factual Reality): 
 Focused on representing accurate and verifiable information about the world, this platform offers a digital space where users can share knowledge, ideas, and experiences rooted in factual reality.
 
-#### **[UR.CITY]** (Secondary Platform for Fictional Reality): 
+#### **[UR.CITY]** (for Fictional Reality): 
 Dedicated to the imaginative and creative aspects of digital societies, this platform enables users to explore, share, and participate in fictional narratives, experiences, and environments.
 
 
@@ -67,7 +67,7 @@ Dedicated to the imaginative and creative aspects of digital societies, this pla
 
 Once the Secondary Platforms have been successfully validated, they are merged into the Main Platform, IM.UR.CITY for Fluid Reality. The Main Platform constitutes the Beta version of the project, offering a more comprehensive and interconnected experience for users as it seamlessly blends the aspects of both Secondary Platforms. In this stage, the project undergoes additional testing, refinement, and expansion before reaching its final, fully-featured form.
 
-#### **[IM.UR.CITY]** (Main Platform for Fluid Reality): 
+#### **[IM.UR.CITY]** (for Fluid Reality): 
 This platform combines both secondary platforms, providing an environment where the digital societies can interact, collaborate, and coexist in a seamless fusion of diverse social realities.
 
 
