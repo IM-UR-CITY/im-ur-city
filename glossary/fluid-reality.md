@@ -28,3 +28,5 @@ Interactive storytelling is yet another domain where Fluid Reality thrives. In t
 It is important to note that Fluid Reality is not limited to virtual or augmented reality experiences. It is a broader concept that encompasses various forms of digital and mediated environments, capturing the ever-changing nature of the experiences and interactions in today's digital societies.
 
 Fluid Reality is a fascinating and dynamic concept that recognizes the convergence of fictional and factual elements in our modern world. As technology continues to advance and further interconnect our lives, Fluid Reality is poised to become an even more prevalent and influential aspect of our daily experiences. Embracing and understanding Fluid Reality can lead to a richer and more nuanced appreciation of the increasingly complex world we inhabit.
+
+Note: Fluid Reality is also one of the reality subcategories in the _Realitree_ classification system, along _Factual Reality_, _Fictional Reality_.

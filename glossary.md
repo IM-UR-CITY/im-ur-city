@@ -8,8 +8,6 @@ permalink: /glossary/
 last_modified_date: 2023-03-17 10:40
 ---
 
-{:toc}
-
 
 ### Fluid Reality               
 
