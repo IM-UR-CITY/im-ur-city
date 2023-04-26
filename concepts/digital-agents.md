@@ -21,12 +21,12 @@ They come in two types: Artificial Agents and Intelligent Agents.
 
 These are digital agents that participate in simulated environments. They can mimic the behavior of real-world entities, such as humans, animals, or other objects, and interact with other agents or elements within the simulation. Artificial agents can be used to study complex systems, test hypotheses, or develop and evaluate strategies in a controlled environment.
 
-Artificial Agents are part of the _Fictional Reality_.
+Artificial Agents are part of _Fictional Reality_.
 
 ### Intelligent Agents
 
 These are AI-based digital agents that perform various tasks, often autonomously or semi-autonomously. Intelligent agents employ AI techniques, such as machine learning, natural language processing, or computer vision, to process and analyze data, adapt to their environment, and make informed decisions.
 
-Intelligent Agents are part of the _Factual Reality_.
+Intelligent Agents are part of _Factual Reality_.
 
 
