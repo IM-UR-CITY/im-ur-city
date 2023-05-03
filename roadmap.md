@@ -44,7 +44,7 @@ last_modified_date: 2023-03-17 10:40
   - [ ] Digital Spaces Management
   - [ ] Digital Citizens Operations
 
-Note: "Digital Spaces" are based on the former concept of "Virtual Land"
+Note: "Digital Spaces" are based on the former concept of "Virtual Land"      
 Note: "Digital Citizens" are based on the former concept of "Virtual Citizens"
 
 
