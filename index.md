@@ -8,8 +8,8 @@ nav_order: 1
 
 ## The Vision 
 ---------------------------------------
-_Long term:_ Digital City-States Framework      
-_Medium term:_ Digital Agents as a Service    
+_Long term:_ Infrastructure for Digital City-States      
+_Medium term:_ Platform for Digital Agents as a Service       
 
 ## The Mission 
 ---------------------------------------
