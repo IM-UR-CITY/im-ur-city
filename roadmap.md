@@ -35,6 +35,17 @@ last_modified_date: 2023-03-17 10:40
   - [ ] Iterate and refine the main platform.
 
 
+## Platform-level Development Roadmap
+
+- [ ] **Digital Agents Center**
+  - [ ] Digital Agents Incubator
+  - [ ] Digital Agents Marketplace
+- [ ] **IM.UR.CITY**
+  - [ ] Digital Spaces Management
+  - [ ] Digital Citizens Operations
+
+Note: "Digital Spaces" are based on the former concept of "Virtual Land"
+Note: "Digital Citizens" are based on the former concept of "Virtual Citizens"
 
 
 ## City Format Milestones 
