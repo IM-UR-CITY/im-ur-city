@@ -8,8 +8,8 @@ nav_order: 1
 
 ## The Vision 
 ---------------------------------------
-_Short term vision:_ Platform for Digital Agents as a Service       
-_Medium term vision:_ Infrastructure for Digital City-States       
+<!-- _Short term vision:_ -->Platform for Digital Agents as a Service       
+<!-- _Medium term vision:_ Infrastructure for Digital City-States -->       
 <!-- _Long term vision:_ Fluid Reality Digital Framework -->
 
 
@@ -20,7 +20,7 @@ Enhancing social interactions with digital agents and decentralised technologies
 
 ## Project Status
 ---------------------------------------
-The project is in the initial development stages and is currently focused on the development of the specialised Centers. The initial Center, _Digital.Agents.Center_, is currently in the process of being developed and will be launched in the near future. 
+The project is in the initial development stages of developing the _Digital.Agents.Center_. 
 
 
 ## Project Components
@@ -36,6 +36,7 @@ Centers are the individual building blocks or modules of the project, each focus
 #### **digital.agents.center** 
 Acting as an incubator and marketspace for digital agents, this center supports the development and growth of AI-driven tools and services that can be used across the platforms.
 
+<!--
 #### **digital.libraries.center**
 This center serves as a repository for digital content and knowledge, providing users with access to various resources and information relevant to the digital societies.
 
@@ -50,7 +51,7 @@ Dedicated to facilitating augmented decision-making processes, this center emplo
 
 #### **digital.experiences.center** 
 This center organizes and hosts digital events and competitions, offering users a platform to engage in interactive experiences, showcase their skills, and connect with others within the digital societies.
-
+-->
 
 ### Secondary Platforms (MVP)      
 
