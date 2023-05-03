@@ -15,7 +15,7 @@ _Long term vision:_ Fluid Reality Digital Framework
 
 ## The Mission 
 ---------------------------------------
-Augmenting social interactions through digital agents and decentralised technologies to create a new type of digital societies.
+Enhancing social interactions with digital agents and decentralised technologies for innovative digital societies.
 
 
 ## Project Status
