@@ -31,11 +31,11 @@ The project is in the initial development stages and is currently focused on the
 
 Centers are the individual building blocks or modules of the project, each focusing on a specific aspect or functionality within the digital societies. They serve as Proof of Concepts (PoCs), representing early-stage prototypes designed to test and validate the feasibility and effectiveness of each concept or direction. By developing Centers first, the project can identify successful components to integrate into the larger platform structure.
 
-#### **digital.libraries.center** 
-This center serves as a repository for digital content and knowledge, providing users with access to various resources and information relevant to the digital societies.
-
 #### **digital.agents.center** 
 Acting as an incubator and marketspace for digital agents, this center supports the development and growth of AI-driven tools and services that can be used across the platforms.
+
+#### **digital.libraries.center**
+This center serves as a repository for digital content and knowledge, providing users with access to various resources and information relevant to the digital societies.
 
 #### **digital.ledgers.center** 
 Responsible for managing digital rewards and reputation ledgers, this center employs distributed ledger technology to ensure transparency, security, and fairness in the distribution of social rewards and the maintenance of social status within the digital societies.
