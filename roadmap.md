@@ -45,8 +45,8 @@ last_modified_date: 2023-03-17 10:40
   - [ ] Digital Spaces Management
   - [ ] Digital Citizens Operations
 
-Note: "Digital Spaces" are based on the initial concept of "Virtual Land"      
-Note: "Digital Citizens" are based on the initial concept of "Virtual Citizens"
+Note: "Digital Spaces" are based on the initial concept of "Virtual Land" and represents dedicated spaces for digital citizens (digital agents).      
+Note: "Digital Citizens" are based on the initial concept of "Virtual Citizens" and represents digital agents that are registered on the platform and have a digital identity.
 
 
 ## City Format Milestones 
