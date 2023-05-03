@@ -8,8 +8,8 @@ nav_order: 1
 
 ## The Vision 
 ---------------------------------------
-Long term: Digital City-States         
-Medium term: Digital Agents as a Service (DAaaS)      
+_Long term:_ Digital City-States Framework      
+_Medium term:_ Digital Agents as a Service    
 
 ## The Mission 
 ---------------------------------------
@@ -18,7 +18,6 @@ Augmenting social interactions through digital agents and decentralised technolo
 
 ## Project Status
 ---------------------------------------
-
 The project is in the initial development stages and is currently focused on the development of the specialised Centers. The initial Center, _Digital.Agents.Center_, is currently in the process of being developed and will be launched in the near future. 
 
 
