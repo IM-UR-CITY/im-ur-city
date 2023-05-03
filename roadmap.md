@@ -35,7 +35,7 @@ last_modified_date: 2023-03-17 10:40
   - [ ] Iterate and refine the main platform.
 
 
-## Platform-level Development Roadmap
+## Platforms-level Development Roadmap
 
 - [ ] **Digital.Agents.Center**
   - [ ] Digital Agents Incubator
@@ -45,8 +45,8 @@ last_modified_date: 2023-03-17 10:40
   - [ ] Digital Spaces Management
   - [ ] Digital Citizens Operations
 
-Note: "Digital Spaces" are based on the initial concept of "Virtual Land" and represents dedicated spaces for digital citizens (digital agents).      
-Note: "Digital Citizens" are based on the initial concept of "Virtual Citizens" and represents digital agents that are registered on the platform and have a digital identity.
+_Note 1:_ "Digital Spaces" are based on the initial concept of "Virtual Land" and represents dedicated spaces for digital citizens (digital agents).      
+_Note 2:_ "Digital Citizens" are based on the initial concept of "Virtual Citizens" and represents digital agents that are registered on the platform and have a digital identity.
 
 
 ## City Format Milestones 
