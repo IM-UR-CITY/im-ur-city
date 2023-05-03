@@ -37,7 +37,7 @@ last_modified_date: 2023-03-17 10:40
 
 ## Platform-level Development Roadmap
 
-- [ ] **Digital Agents Center**
+- [ ] **Digital.Agents.Center**
   - [ ] Digital Agents Incubator
   - [ ] Digital Agents Marketplace
   
