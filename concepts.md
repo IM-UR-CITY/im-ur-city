@@ -12,7 +12,7 @@ last_modified_date: 2023-03-17 10:40
 ### Digital Agents 
 
 Digital Agents refer to computer programs or algorithms that are designed to perform specific tasks, interact with their environment, and make decisions based on predefined goals or objectives.
-They come in two types: Artificial Agents and Intelligent Agents.
+They come in two types: Factual Reality Agents and Fictional Reality Agents.
 [(Learn More)](https://im.ur.city/digital-agents/)
 
 ### Fluid Reality               
