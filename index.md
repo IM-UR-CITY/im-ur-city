@@ -8,12 +8,14 @@ nav_order: 1
 
 ## The Vision 
 ---------------------------------------
-_Long term:_ Infrastructure for Digital City-States      
-_Medium term:_ Platform for Digital Agents as a Service       
+_Short term vision:_ Platform for Digital Agents as a Service       
+_Medium term vision:_ Infrastructure for Digital City-States       
+_Long term vision:_ Fluid Reality Digital Framework
+
 
 ## The Mission 
 ---------------------------------------
-Augmenting social interactions through digital agents and decentralised technologies
+Augmenting social interactions through digital agents and decentralised technologies to create a new type of digital societies.
 
 
 ## Project Status
