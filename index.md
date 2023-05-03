@@ -8,11 +8,12 @@ nav_order: 1
 
 ## The Vision 
 ---------------------------------------
-We aim to advance the digital evolution of society by empowering individuals and communities to create independent societies that harmoniously coexist within shared geographic spaces. Leveraging cutting-edge technologies and innovative concepts, IM.UR.CITY aspires to build a resilient, adaptable, and inclusive framework for the seamless fusion of diverse social realities, enabling a new era of interconnectedness and participatory digital city-states.
+Long term: Digital City-States         
+Medium term: Digital Agents as a Service (DAaaS)      
 
 ## The Mission 
 ---------------------------------------
-We embraced the mission to design and develop the essential components of a versatile operating system tailored for custom digital societies, enabling innovation, collaboration, and sustainability. By integrating AI, distributed ledger technology, and novel social constructs, we aim to revolutionize the digital landscape and create a foundation for diverse societies to coexist harmoniously. Our commitment is to empower individuals and communities with the tools and infrastructure needed to shape their own digital city-states, ensuring a more inclusive, adaptable, and interconnected future for all.
+Augmenting social interactions through digital agents and decentralised technologies
 
 
 ## Project Status
