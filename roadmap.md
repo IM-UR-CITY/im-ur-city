@@ -37,15 +37,9 @@ last_modified_date: 2023-05-04 10:40
 
 ## Interactions Format Approaches 
 
-- [ ] **Dashboard City** (short-term)
-  - [ ] read-only version
-  - [ ] interactive version
-- [ ] **Audio-visual City** (mid-term)
-  - [ ] view-only version
-  - [ ] interactive version
-- [ ] **Multisensory City** (long-term)
-  - [ ] sense-only version
-  - [ ] interactive version
+- [ ] **Dashboard Digital City** (short-term)
+- [ ] **Audio-visual Digital City** (mid-term)
+- [ ] **Multisensory Digital City** (long-term)
 
   
 ## Platforms-level Development Roadmap
