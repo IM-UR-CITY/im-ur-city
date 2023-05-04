@@ -5,6 +5,8 @@ theme: just-the-docs
 url: https://IM.UR.CITY
 
 aux_links:
+  "Our Twitter":
+    - "https://twitter.com/ImUrCity"
 
 callouts_level: quiet # or loud
 callouts:
