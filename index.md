@@ -9,8 +9,8 @@ nav_order: 1
 ## The Vision 
 ---------------------------------------
 <!-- _Short term vision:_ Platform for -->Digital Agents as a Service       
-<!-- _Medium term vision:_ Infrastructure for Digital City-States -->       
-<!-- _Long term vision:_ Fluid Reality Digital Framework -->
+<!-- _Medium term vision:_ Operating System for Digital City(-States) -->       
+<!-- _Long term vision:_ Digital Infrastructure for Fluid Reality -->
 
 
 ## The Mission 
