@@ -11,6 +11,20 @@ last_modified_date: 2023-05-04 10:40
 # Roadmap Information
 ----------------
 
+## Centers-level Development Roadmap
+
+- [ ] **Digital.Agents.Center**
+  - [ ] Digital Agents Incubator
+  - [ ] Digital Agents Marketplace
+
+- [ ] **IM.UR.CITY (IM.CITY/UR.CITY)**
+  - [ ] Digital Spaces Management
+  - [ ] Digital Citizens Operations
+
+_Note 1:_ "Digital Spaces" are based on the initial concept of "Virtual Land" and represents dedicated spaces for digital citizens (digital agents).      
+_Note 2:_ "Digital Citizens" are based on the initial concept of "Virtual Citizens" and represents digital agents that are registered on the platform and have a digital identity.
+
+
 ## High-level Development Strategy
 
 - [ ] **Phase 1: Centers Development (PoC)**
@@ -41,16 +55,3 @@ last_modified_date: 2023-05-04 10:40
 - [ ] **Audio-visual Digital City** (mid-term)
 - [ ] **Multisensory Digital City** (long-term)
 
-  
-## Platforms-level Development Roadmap
-
-- [ ] **Digital.Agents.Center**
-  - [ ] Digital Agents Incubator
-  - [ ] Digital Agents Marketplace
-
-- [ ] **IM.UR.CITY (IM.CITY/UR.CITY)**
-  - [ ] Digital Spaces Management
-  - [ ] Digital Citizens Operations
-
-_Note 1:_ "Digital Spaces" are based on the initial concept of "Virtual Land" and represents dedicated spaces for digital citizens (digital agents).      
-_Note 2:_ "Digital Citizens" are based on the initial concept of "Virtual Citizens" and represents digital agents that are registered on the platform and have a digital identity.
