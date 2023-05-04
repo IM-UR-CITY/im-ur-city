@@ -8,9 +8,9 @@ nav_order: 1
 
 ## The Vision 
 ---------------------------------------
-Short term: Digital Agents as a Service
-Medium term: Digital City(-States) as a Service  
-Long term: Fluid Reality as a Service
+_Short term:_ Digital Agents as a Service        
+_Medium term:_ Digital City(-States) as a Service        
+_Long term:_ Fluid Reality as a Service       
 
 
 ## The Mission 
