@@ -23,7 +23,7 @@ Enhancing social interactions with new technologies like AI and DLT for innovati
 The project is in the initial development stages of developing the _Digital.Agents.Center_. 
 
 
-## Project Components
+## Development Approach
 ---------------------------------------
 
 
