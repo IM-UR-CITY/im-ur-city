@@ -9,7 +9,7 @@ nav_order: 1
 ## The Vision 
 ---------------------------------------
 
-**Digital Societies as a Service**
+Building the **Digital Societies as a Service** platform.
 
 This is a 3 stages vision:
 
