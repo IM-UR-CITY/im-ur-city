@@ -4,16 +4,12 @@ layout: home
 nav_order: 1
 ---
 
-# The Digital Citizens Project
+# The Digital Societies Project
 
 ## The Vision 
 ---------------------------------------
 
-Building the **Digital Societies as a Service** platform.
-
-This is a 3 stages vision:
-
-_Stage 1:_ Digital Agents as a Service        
+_Stage 1:_ Digital Citizens as a Service        
 _Stage 2:_ Digital Cities as a Service        
 _Stage 3:_ Digital States as a Service       
 
