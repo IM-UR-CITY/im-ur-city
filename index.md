@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-# The Digital Societies Ecosystem
+# The Digital Citizens Project
 
 ## The Vision 
 ---------------------------------------
