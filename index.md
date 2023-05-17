@@ -9,7 +9,7 @@ nav_order: 1
 ## The Vision 
 ---------------------------------------
 
-_Stage 1:_ Digital Citizens as a Service        
+_Stage 1:_ Digital Agents as a Service        
 _Stage 2:_ Digital Cities as a Service        
 _Stage 3:_ Digital States as a Service       
 
