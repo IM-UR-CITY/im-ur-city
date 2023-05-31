@@ -9,7 +9,7 @@ nav_order: 1
 ## The Vision 
 ---------------------------------------
 
-There is not just about consuming reality, but becoming an active participant in its creation, shaping our experiences and understanding of the world around us in a manner as unique as our own fingerprints.
+It is not just about consuming reality, but becoming an active participant in its creation, shaping our experiences and understanding of the world around us in a manner as unique as our own fingerprints.
 
 _Stage 1:_ Digital Agents as a Service
 
