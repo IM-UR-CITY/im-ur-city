@@ -4,19 +4,20 @@ layout: home
 nav_order: 1
 ---
 
-# The Digital Societies Project
+# The Fluid Reality Project
 
 ## The Vision 
 ---------------------------------------
 
-_Stage 1:_ Digital Agents as a Service        
-_Stage 2:_ Digital Cities as a Service        
-_Stage 3:_ Digital States as a Service       
+There is not just about consuming reality, but becoming an active participant in its creation, shaping our experiences and understanding of the world around us in a manner as unique as our own fingerprints.
 
+_Stage 1:_ Digital Agents as a Service
 
 ## The Mission 
 ---------------------------------------
-Enhancing social interactions with new technologies like AI and DLT for innovative digital societies.
+Our mission is to harness the power of advanced technologies, including AI, DLT, and simulations, to facilitate the Fluid Reality management.  
+We strive to provide a robust, interactive, and inclusive platform where individuals and organizations can generate their own unique blend of factual and fictional realities.    
+By doing so, we aim to broaden perspectives, foster creativity, enhance learning, and promote informed decision-making. Above all, we are committed to nurturing a safe and ethical environment for reality generation, ensuring transparency, authenticity, and respect for personal data privacy in all our services.
 
 
 ## Project Status
