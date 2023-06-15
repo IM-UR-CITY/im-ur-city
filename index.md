@@ -61,9 +61,15 @@ This center organizes and hosts digital events and competitions, offering users 
 After the successful validation of individual Centers, they are combined and integrated into one or both of the Secondary Platforms, IM.CITY (Factual Reality) and UR.CITY (Fictional Reality). The Secondary Platforms represent the Minimum Viable Product (MVP) stage, providing a functional yet streamlined experience for users. This stage aims to further test and validate the project's concepts and their interactions with each other in a more cohesive environment.
 
 #### **[IM.CITY]** (for Factual Reality) 
+
+**Society Operating System (SOS)**
+
 Focused on representing accurate and verifiable information about the world, this platform offers a digital space where users can share knowledge, ideas, and experiences rooted in factual reality.
 
 #### **[UR.CITY]** (for Fictional Reality) 
+
+**Society Ecosystem Simulator (SES)**
+
 Dedicated to the imaginative and creative aspects of digital societies, this platform enables users to explore, share, and participate in fictional narratives, experiences, and environments.
 
 
