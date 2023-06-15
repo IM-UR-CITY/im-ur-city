@@ -15,7 +15,7 @@ last_modified_date: 2023-05-04 10:40
 
 - [ ] **Digital.Agents.Center**
   - [ ] **Incubator** for Digital Agents (IDA)
-  - [ ] [not public] Digital Agents (ADA)
+  - [ ] [not public] for Digital Agents (ADA)
   - [ ] **Marketplace** Digital Agents (MDA)
 
 - [ ] **Digital.Ledgers.Center**
