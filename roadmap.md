@@ -15,6 +15,7 @@ last_modified_date: 2023-05-04 10:40
 
 - [ ] **Digital.Agents.Center**
   - [ ] Digital Agents Incubator
+  - [ ] Digital Agents (not public)
   - [ ] Digital Agents Marketplace
 
 - [ ] **IM.UR.CITY (IM.CITY/UR.CITY)**
