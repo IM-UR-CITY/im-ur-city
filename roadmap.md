@@ -14,17 +14,24 @@ last_modified_date: 2023-05-04 10:40
 ## Centers-level Development Roadmap
 
 - [ ] **Digital.Agents.Center**
-  - [ ] Digital Agents Incubator
-  - [ ] Digital Agents (not public)
-  - [ ] Digital Agents Marketplace
+  - [ ] **Incubator** for Digital Agents (IDA)
+  - [ ] [not public] Digital Agents (ADA)
+  - [ ] **Marketplace** Digital Agents (MDA)
 
-- [ ] **IM.UR.CITY (IM.CITY/UR.CITY)**
+- [ ] **Digital.Ledgers.Center**
+- [ ] **Digital.Libraries.Center**
+
+- [ ] **IM.UR.CITY**
   - [ ] Digital Spaces Management
   - [ ] Digital Citizens Operations
 
 _Note 1:_ "Digital Spaces" are based on the initial concept of "Virtual Land" and represents dedicated spaces for digital citizens (digital agents).      
 _Note 2:_ "Digital Citizens" are based on the initial concept of "Virtual Citizens" and represents digital agents that are registered on the platform and have a digital identity.
 
+## Society As A Service Strategy - IM.UR.CITY
+
+- [ ] Society **Ecosystem Simulator** (SES) (UR.CITY)
+- [ ] Society **Operating System** (SOS) (IM.CITY)
 
 ## High-level Development Strategy
 
